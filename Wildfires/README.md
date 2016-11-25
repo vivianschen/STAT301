@@ -3,7 +3,7 @@
 The wildfires dataset (wildfires.csv) describes 350
 wildfires that started within a large national park. The origin of each fire is shown below in red.
 
-![alt tag](https://raw.github.com/vivianschen/Wildfires/master/Users/chenjf/Desktop/wildfires_visual.png)
+<img width="354" alt="wildfires_visual" src="https://cloud.githubusercontent.com/assets/22163404/20633797/e30bc604-b30f-11e6-851e-f7764c27c503.PNG">
 
 A number of factors may affect how large a fire becomes. For example, if it starts near a ranger station (green
 triangles on the map) at a time when it is manned, fires may be less likely to spread.
