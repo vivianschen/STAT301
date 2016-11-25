@@ -2,6 +2,9 @@
 
 The wildfires dataset (wildfires.csv) describes 350 wildfires that started within a large national park. 17 variables are documented for each fire. For task 1, the outcome variable is burned, and we will be using all other variables except for wlf as predictors. For task 2, the outcome variable is wlf, and we will be using the remaining 16 variables as predictors. 
 
+![image](https://cloud.githubusercontent.com/assets/22163404/20635419/6620e40e-b322-11e6-8369-7de450ea5386.png)
+
+
 The origin of each fire is shown below in red.
 
 <img width="354" alt="wildfires_visual" src="https://cloud.githubusercontent.com/assets/22163404/20633797/e30bc604-b30f-11e6-851e-f7764c27c503.PNG">
