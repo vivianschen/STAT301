@@ -1,4 +1,2 @@
 # STAT301
-Data Science, Fall '16
-My assignments and projects with R.
-
+Assignments and projects in my Data Science class, Fall '16
