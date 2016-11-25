@@ -2,7 +2,7 @@
 
 The wildfires dataset (wildfires.csv) describes 350 wildfires that started within a large national park. 17 variables are documented for each fire. For task 1, the outcome variable is burned, and we will be using all other variables except for wlf as predictors. For task 2, the outcome variable is wlf, and we will be using the remaining 16 variables as predictors. 
 
-![image](https://cloud.githubusercontent.com/assets/22163404/20635419/6620e40e-b322-11e6-8369-7de450ea5386.png)
+![image](https://cloud.githubusercontent.com/assets/22163404/20635461/eedf8dea-b322-11e6-8458-45e7d1fc8f98.png)
 
 
 The origin of each fire is shown below in red.
@@ -24,6 +24,9 @@ We utilized the best subset selection approach with the given data in order to p
 
 Given this information, we plotted the RSS, adjusted R squared, Cp, and BIC for all of the models in order to determine how many variables to include in the optimal model. Each statistic gave us a different answer:
 
+![image](https://cloud.githubusercontent.com/assets/22163404/20635510/7fee12e8-b323-11e6-866c-c7343509af79.png)
+
+![image](https://cloud.githubusercontent.com/assets/22163404/20635519/959bcbee-b323-11e6-9a83-9cde792f8315.png)
 
 
 
